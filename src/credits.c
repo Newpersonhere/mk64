@@ -70,9 +70,9 @@ struct_802850C0_entry D_802850C0[] = {
 char *D_802854B0[] = {
     // English Credits
     "executive producer",
-    "hiroshi yamauchi",
+    "Hiroshi Yamauchi",
     "producer",
-    "shigeru miyamoto",
+    "Shigeru Miyamoto",
     "director",
     "hideki konno",
     "assistant director",
@@ -108,9 +108,10 @@ char *D_802854B0[] = {
     "taro bando",
     "yoji inagaki",
     "sampling voice",
-    "charles martinet",
-    "leslie swan",
+    "Charles Martinet",
+    "Leslie Swan",
     "isaac marshall",
+    "Julien Bardakoff",
     "",
     "",
     "",
@@ -131,7 +132,7 @@ char *D_802854B0[] = {
     "super mario club",
     "Donkey Kong 3-D Model Provided Courtesy of Rare U.K.",
     "the end",
-    "mariokart64 staff",
+    "MarioKart64 staff",
     // Japanese Credits
     // Note that these are EUC-JP encoded, see:
     // https://en.wikipedia.org/wiki/Extended_Unix_Code#EUC-JP
